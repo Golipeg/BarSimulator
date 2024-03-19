@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03b04b8e-2456-410e-ba97-30bfedacb3fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Soccer-bar-simulator/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/BoxMaterialForExampleScene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/BoxMaterialForExampleScene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/ChangeGraphics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/ChangeGraphics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/CubeMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/CubeMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/GroundMaterialForExampleScene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/GroundMaterialForExampleScene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Menus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Menus.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/NOTE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/NOTE.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Settings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Settings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Vars.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/Vars.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Example/scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joystickBlue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joystickBlue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joystickGray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joystickGray.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joysticks controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Graphics/joysticks controls.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Prefab/joystick.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Prefab/joystick.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/Joystick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/Joystick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/JoystickLeft.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/JoystickLeft.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/JoystickRight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/Scripts/JoystickRight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/joystick documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetStore/Joystick controls/joystick documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Arsen/Bar-Simulator" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ArsenPetrossov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f7c79502-e7ea-4d6e-86ee-a6e7dbb6222a" />
+        <option name="url" value="https://github.com/slusarenkoas/Soccer-bar-simulator.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../MiniGangstarCity_ver1.1/MiniGangstarCity_src/Assets/Joystick controls/Scripts/Joystick.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cXihtZ2jmxgQ40A5jKinWI7n5b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Mahmudi\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Mahmudi\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Mahmudi\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03b04b8e-2456-410e-ba97-30bfedacb3fe" name="Changes" comment="" />
+      <created>1708264449785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708264449785</updated>
+      <workItem from="1708264457869" duration="4000" />
+      <workItem from="1708399960598" duration="3811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Arsen/Bar-Simulator" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

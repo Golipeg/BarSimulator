@@ -1,0 +1,14 @@
+Index: Assets/AssetStore/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta
+===================================================================
+diff --git a/Assets/AssetStore/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta b/Assets/AssetStore/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta
+deleted file mode 100644
+--- a/Assets/AssetStore/Epic Toon FX/Upgrade/ETFX URP Upgrade (2020.3.45f1).unitypackage.meta	
++++ /dev/null	
+@@ -1,7 +0,0 @@
+-fileFormatVersion: 2
+-guid: 3d7c4217783978e4abe6496ac71eee94
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 

@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d7208e7-dbfe-4e5b-a9d8-3292f311ec00" name="Changes" comment="Feat - Add logic ProductionMachine and reaction Player on this Item">
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Materials/Ice Cream Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Materials/Ice Cream Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Candy Chocolate.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Candy Chocolate.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cherry.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cherry.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cone Ice Cream G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cookie Chocolate.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cookie Chocolate.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream J.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream J.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream M.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream M.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream N.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Cup Ice Cream N.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Dragee Chocolate E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl H.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Bowl H.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat H.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat H.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat N.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Ice Cream Hat N.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Jelly Bean G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Shark C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Worm A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Worm A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Worm B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Marmalade Worm B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Spoon.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Spoon.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Straw Chocolate.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Straw Chocolate.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Straw Strawberry.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Straw Strawberry.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Strawberry.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Models/Strawberry.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Candy Chocolate.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Candy Chocolate.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cherry.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cherry.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cone Ice Cream G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cookie Chocolate.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cookie Chocolate.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream J.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream J.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream M.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream M.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream N.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Cup Ice Cream N.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Dragee Chocolate E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Bowl H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat N.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Ice Cream Hat N.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Jelly Bean G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Shark C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Worm A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Worm A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Worm B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Marmalade Worm B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Spoon.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Spoon.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Straw Chocolate.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Straw Chocolate.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Straw Strawberry.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Straw Strawberry.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Strawberry.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Prefab/Strawberry.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Scenes/Demo Scene_Profiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Scenes/Demo Scene_Profiles/Camera Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Scenes/Demo Scene_Profiles/Camera Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Texture/Color Palette Ice Cream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Casual Ice Cream/Texture/Color Palette Ice Cream.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Materials/Burger Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Materials/Burger Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Anchovy.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Anchovy.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Arugula Leaf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Avocado Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Avocado Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Bacon Slice Small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Bacon Slice Small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Bacon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Bacon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Basil Leaf Violet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Basil Leaf Violet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down I.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down I.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down L.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread  Down L.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread I.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Burger Bread/Burger Bread I.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese Slice G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cheese.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cucumber Salt.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cucumber Salt.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cucumber.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cucumber.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cutlet B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Cutlet B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Egg Boiled.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Egg Boiled.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Fish B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Fish B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Fish Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Fish Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Lemon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Lemon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Lemon.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Lemon.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Black Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Black Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Black.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Black.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Olive Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Onion Slice White.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Onion Slice White.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Onion Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Onion Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Red Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Red Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Red.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Red.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Yellow Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pepper Yellow Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pineapple Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Pineapple Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Salad Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Salad Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Shrimp.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Shrimp.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Skewer.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Skewer.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Tomato Slice Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Tomato Slice Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Tomato Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Models/Tomato Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Anchovy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Anchovy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Arugula Leaf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Avocado Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Avocado Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Bacon Slice Small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Bacon Slice Small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Bacon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Bacon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Basil Leaf Violet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Basil Leaf Violet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down I.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down I.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread  Down L.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread I.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Burger Bread/Burger Bread I.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese Slice G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cheese.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cucumber Salt.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cucumber Salt.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cucumber.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cucumber.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cutlet B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Cutlet B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Egg Boiled.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Egg Boiled.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Fish B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Fish B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Fish Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Fish Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Lemon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Lemon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Lemon.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Lemon.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Black Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Black Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Olive Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Onion Slice White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Onion Slice White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Onion Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Onion Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Red Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Red Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Yellow Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pepper Yellow Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pineapple Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Pineapple Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Salad Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Salad Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Shrimp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Shrimp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Skewer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Skewer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Tomato Slice Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Tomato Slice Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Tomato Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Prefab/Tomato Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Texture/Color Palette Burgers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Burger/Texture/Color Palette Burgers.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Materials/Hot Dog Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Materials/Hot Dog Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Arugula Leaf B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Arugula Leaf B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Arugula Leaf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Arugula Leaf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Avocado Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Avocado Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Bacon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Bacon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Basil Leaf Violet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Basil Leaf Violet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Cheese Slice G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Garlic Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Garlic Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread J.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread J.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread K.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread K.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread L.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread L.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread M.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread M.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread Q.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Hot Dog Bread/Hot Dog Bread Q.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Ketchup Bent.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Ketchup Bent.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Mushroom Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Mushroom Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Mustard Bent.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Mustard Bent.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Olive Green Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Olive Green Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Onion Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Onion Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Pepper Red Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Pepper Red Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Pepperoni Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Pepperoni Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Salad Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Salad Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage Bent D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Sausage C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice Yellow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice Yellow.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Models/Tomato Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Arugula Leaf B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Arugula Leaf B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Arugula Leaf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Arugula Leaf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Avocado Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Avocado Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Bacon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Bacon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Basil Leaf Violet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Basil Leaf Violet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Cheese Slice G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Garlic Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Garlic Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread M.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread M.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread Q.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Hot Dog Bread/Hot Dog Bread Q.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Ketchup Bent.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Ketchup Bent.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Mushroom Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Mushroom Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Mustard Bent.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Mustard Bent.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Olive Green Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Olive Green Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Onion Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Onion Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Pepper Red Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Pepper Red Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Pepperoni Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Pepperoni Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Salad Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Salad Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage Bent D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Sausage C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice Yellow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice Yellow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Prefab/Tomato Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Texture/Color Palette Hot Dogs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Hot Dogs/Texture/Color Palette Hot Dogs.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Materials/Pizza Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Materials/Pizza Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Anchovy.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Anchovy.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Arugula Leaf A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Arugula Leaf A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Arugula Leaf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Arugula Leaf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Bacon Slice Medium.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Bacon Slice Medium.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Bacon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Bacon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Basil Leaf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Basil Leaf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Beef Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Broccoli.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Broccoli.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cauliflower.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cauliflower.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Pieces A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Pieces A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Pieces B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Pieces B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cheese.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cucumber.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Cucumber.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Fish Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Fish Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Garlic Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Garlic Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Lemon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Lemon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Mushroom Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Mushroom Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Olive Black Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Olive Black Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Olive Green Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Olive Green Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Onion Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Onion Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Peas.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Peas.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Green Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Green Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Red Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Red Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Red.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepper Red.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepperoni Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pepperoni Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pineapple Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pineapple Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough  Ketchup.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough .fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough .fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Beetroot.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Beetroot.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Mozzarella A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Mozzarella A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Mozzarella B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Pizza Dough/Dough Mozzarella B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Shrimp.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Shrimp.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Tomato Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Models/Tomato Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Anchovy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Anchovy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Arugula Leaf A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Arugula Leaf A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Arugula Leaf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Arugula Leaf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Bacon Slice Medium.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Bacon Slice Medium.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Bacon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Bacon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Basil Leaf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Basil Leaf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Beef Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Broccoli.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Broccoli.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cauliflower.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cauliflower.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Pieces A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Pieces A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Pieces B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Pieces B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cheese.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cucumber.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Cucumber.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Fish Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Fish Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Garlic Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Garlic Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Lemon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Lemon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Mushroom Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Mushroom Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Olive Black Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Olive Black Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Olive Green Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Olive Green Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Onion Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Onion Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Peas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Peas.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Green Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Green Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Red Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Red Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepper Red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepperoni Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pepperoni Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pineapple Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pineapple Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough  Ketchup A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough  Ketchup A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough  Ketchup B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough  Ketchup B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Beetroot.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Beetroot.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Ketchup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Ketchup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Mozzarella A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Mozzarella A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Mozzarella B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough Mozzarella B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Pizza Dough/Dough.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Shrimp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Shrimp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Tomato Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Prefab/Tomato Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Texture/Color Palette Pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Pizza/Texture/Color Palette Pizza.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Materials/Sandwich Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Materials/Sandwich Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Anchovy.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Anchovy.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Arugula Leaf.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Avocado Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Avocado Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Avocado Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Avocado Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Bacon Slice Small.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Bacon Slice Small.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Bacon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Bacon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Basil Leaf Violet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Basil Leaf Violet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cheese Slice G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cucumber Salt.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cucumber Salt.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cucumber.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cucumber.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cutlet B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Cutlet B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Egg Boiled.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Egg Boiled.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Egg.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Egg.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Fish B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Fish B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Fish Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Fish Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Lemon Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Lemon Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Lemon.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Lemon.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Black Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Black Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Black.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Black.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Olive Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Onion Slice White.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Onion Slice White.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Onion Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Onion Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Red Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Red Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Red.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Red.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Yellow Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pepper Yellow Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pineapple Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Pineapple Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Salad Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Salad Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread K.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread K.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread L.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread L.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread N.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Sanwich Bread/Bread N.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Shrimp.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Shrimp.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Skewer.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Skewer.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Tomato Slice Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Tomato Slice Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Tomato Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Models/Tomato Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Anchovy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Anchovy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Arugula Leaf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Avocado Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Avocado Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Avocado Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Avocado Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Bacon Slice Small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Bacon Slice Small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Bacon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Bacon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Basil Leaf Violet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Basil Leaf Violet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cheese Slice G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cucumber Salt.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cucumber Salt.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cucumber.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cucumber.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cutlet B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Cutlet B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Egg Boiled.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Egg Boiled.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Egg.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Egg.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Fish B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Fish B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Fish Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Fish Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Lemon Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Lemon Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Lemon.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Lemon.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Black Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Black Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Olive Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Onion Slice White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Onion Slice White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Onion Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Onion Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Red Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Red Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Yellow Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pepper Yellow Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pineapple Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Pineapple Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Salad Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Salad Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread K.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread K.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread L.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread N.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Sandwich Bread/Bread N.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Shrimp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Shrimp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Skewer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Skewer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Tomato Slice Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Tomato Slice Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Tomato Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Prefab/Tomato Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Texture/Color Palette Sandwich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Sandwich/Texture/Color Palette Sandwich.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Materials/Tacos &amp; Burritos Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Materials/Tacos &amp; Burritos Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Arugula Leaf A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Arugula Leaf A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Asparagus.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Asparagus.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Avocado Slice A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Avocado Slice A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Avocado Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Avocado Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Bacon Slice Medium.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Bacon Slice Medium.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Basil Leaf Violet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Basil Leaf Violet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cheese B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cheese B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cheese.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cheese.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cucumber.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Cucumber.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Fri Fries.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Fri Fries.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ground Meat Rice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ground Meat Rice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ground Meat.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ground Meat.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ham Slice B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Ham Slice B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Mushroom Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Mushroom Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Olive Black.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Olive Black.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Olive Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Olive Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Onion Slice Green.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Onion Slice Green.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Onion Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Onion Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Pepper Red Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Pepper Red Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Pineapple Slice.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Pineapple Slice.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Buritto Bread E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Buritto Bread E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Buritto Bread F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Buritto Bread F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Tacco Bread C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Tacco Bread C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Tacco Bread F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tacos &amp; Burritos Bread/Tacco Bread F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tomato Slice Red.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tomato Slice Red.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tomato Slice Yellow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Models/Tomato Slice Yellow.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Arugula Leaf A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Arugula Leaf A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Asparagus.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Asparagus.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Avocado Slice A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Avocado Slice A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Avocado Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Avocado Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Bacon Slice Medium.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Bacon Slice Medium.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Basil Leaf Violet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Basil Leaf Violet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cheese B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cheese B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cheese.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cheese.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cucumber.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Cucumber.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Fri Fries.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Fri Fries.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ground Meat Rice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ground Meat Rice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ground Meat.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ground Meat.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ham Slice B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Ham Slice B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Mushroom Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Mushroom Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Olive Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Olive Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Olive Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Olive Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Onion Slice Green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Onion Slice Green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Onion Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Onion Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Pepper Red Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Pepper Red Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Pineapple Slice.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Pineapple Slice.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Buritto Bread E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Buritto Bread E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Buritto Bread F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Buritto Bread F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Tacco Bread C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Tacco Bread C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Tacco Bread F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tacos &amp; Burritos Bread/Tacco Bread F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tomato Slice Red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tomato Slice Red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tomato Slice Yellow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Prefab/Tomato Slice Yellow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Texture/Color Palette Tacos &amp; Burritos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Hyper Сasual Tacos &amp; Burritos/Texture/Color Palette Tacos &amp; Burritos.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Materials/Base Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Materials/Base Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Materials/Mega Food Pack Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Materials/Mega Food Pack Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup G.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup G.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup H.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Cup H.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries Box.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries Box.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Fri Fries E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Ketchup Bottle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Ketchup Bottle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Mustard Bottle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Mustard Bottle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw A.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw A.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw B.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw B.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw C.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw C.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw D.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw D.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw E.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw E.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw F.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Models/Straw F.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Cup H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burger H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burrito A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burrito A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burrito B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Burrito B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Hot Dog G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream J.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream J.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream M.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream M.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream P.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Ice Cream P.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza I.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza I.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza K.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza K.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza M.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Pizza M.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich H.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Sandwich H.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Taco A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Taco A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Taco B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Demos Food/Taco B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries Box.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries Box.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Fri Fries E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Ketchup Bottle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Ketchup Bottle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Mustard Bottle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Mustard Bottle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw E.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw E.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw F.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Prefab/Straw F.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Scenes/Demo Scene Food.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Scenes/Demo Scene Food.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Texture/Color Palette Mega Food Pack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AssetStore/Fast Food Mega Constructor/Mega Food Pack/Texture/Color Palette Mega Food Pack.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Objects/Cup G.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Objects/Cup G.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/Player/PlayerTookItemSignal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/Player/PlayerTookItemSignal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/ProductionMachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/ProductionMachine/ItemCanBeTakePlayerSignal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/ProductionMachine/ItemCanBeTakePlayerSignal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Furniture/ProductionMachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Furniture/ProductionMachine/ProductionMachine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Furniture/ProductionMachine/ProductionMachine.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Soccer-bar-simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Soccer-bar-simulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Furniture/Table/Table.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Furniture/Table/Table.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Furniture/Table/TableController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Furniture/Table/TableController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Hotel3d Tycoon/Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomEventBus/Signals/EventSignal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SweetBite/Assets/UnlockObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SweetBite/Assets/UnlockerManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cXj9K3i8Ub1EVDnO70RJG2tmCi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.18f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Unity\Soccer-bar-simulator -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Unity\Soccer-bar-simulator" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d7208e7-dbfe-4e5b-a9d8-3292f311ec00" name="Changes" comment="" />
+      <created>1708264668156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708264668156</updated>
+      <workItem from="1708264678090" duration="133000" />
+      <workItem from="1708278344228" duration="3174000" />
+      <workItem from="1708362138160" duration="1770000" />
+      <workItem from="1708433591322" duration="15939000" />
+      <workItem from="1708526176056" duration="8490000" />
+      <workItem from="1708604096983" duration="13481000" />
+      <workItem from="1708698064871" duration="8370000" />
+      <workItem from="1708709999244" duration="6367000" />
+      <workItem from="1708755837289" duration="9201000" />
+      <workItem from="1708847229325" duration="3875000" />
+      <workItem from="1708883939850" duration="875000" />
+      <workItem from="1709055947048" duration="7719000" />
+      <workItem from="1709142836814" duration="8450000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialize commit">
+      <created>1708264731419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708264731419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Assets for next work">
+      <created>1708285008361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708285008361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat &#10;Add asset and logic table">
+      <created>1708624433821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708624433822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feat add logic table + Visitor">
+      <created>1708707067137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708707067137</updated>
+    </task>
+    <task id="LOCAL-00005" summary="small fix eventBus">
+      <created>1708707300442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708707300442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix small bus">
+      <created>1708712387355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708712387355</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix EventBus made static">
+      <created>1708714614511</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714614511</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Unsubscribe EventBus">
+      <created>1708715087024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708715087024</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Small ref LevelManager.cs">
+      <created>1708715183577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708715183577</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initialize branch Artem">
+      <created>1708756352131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708756352131</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix bags after merge Arsen and Main">
+      <created>1708873400056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708873400056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Feat add Action for start moving Visitors">
+      <created>1709060173202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709060173202</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Artem" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initialize commit" />
+    <MESSAGE value="Add Assets for next work" />
+    <MESSAGE value="Feat &#10;Add asset and logic table" />
+    <MESSAGE value="Feat add logic table + Visitor" />
+    <MESSAGE value="small fix eventBus" />
+    <MESSAGE value="Fix small bus" />
+    <MESSAGE value="Fix EventBus made static" />
+    <MESSAGE value="Add Unsubscribe EventBus" />
+    <MESSAGE value="Small ref LevelManager.cs" />
+    <MESSAGE value="Initialize branch Artem" />
+    <MESSAGE value="Fix bags after merge Arsen and Main" />
+    <MESSAGE value="Feat add Action for start moving Visitors" />
+    <MESSAGE value="Feat - Add logic ProductionMachine and reaction Player on this Item" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat - Add logic ProductionMachine and reaction Player on this Item" />
+  </component>
+</project>
